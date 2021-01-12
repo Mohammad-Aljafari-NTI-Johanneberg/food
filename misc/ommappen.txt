@@ -1,1 +1,10 @@
 Denna mapp skall innehålla dina skisser, dokumention etc.
+
+Jag började med att skissa och placera ut samt välja bilder för min hemsida. 
+Gick in på Dribble.com och sökte ideer för min hemsida, efter det så gick jag in på Figma och placerade ut bilder 
+och text för att få en överblick på hur sidan skulle se ut. Jag började lägga ut wireframes på figma och text, 
+en bakgrund efter bakgrunden så försökte jag hitta en fin navigator för sidan. Efter en timmes arbete så var jag 
+redo att gå in i Visual Studio code och började med att göra en html sida för varje sub-sida t.ex Hem, Meny, Om oss. 
+Sedan började jag med att lägga in en bakgrund genom css och i html så skrev jag in texter och lade in bilder, jag gjorde en enkel
+nav för alla sidorna och länkade de till där dem skulle när man tyrkcer på de. Jag gjorde en grid för menyn för att bilderna skulle in där de skulle på plats dvs.
+Css koden strulade lite i slutet eftersom att min logga i vänster hörn
